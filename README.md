@@ -1,3 +1,3 @@
 # Demo
 
-send information
+send information to Said!
