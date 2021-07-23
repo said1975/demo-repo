@@ -1,3 +1,3 @@
 # Demo
 
-send info
+send information
